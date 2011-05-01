@@ -1,0 +1,20 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Perl6Run", 
+  "language": "JavaScript", 
+  "trigger_enabled": false, 
+  "value": [
+    "// Macro recorded on: Sun Mar 27 2011 20:26:55 GMT+0400 (MSK)", 
+    "komodo.assertMacroVersion(3);", 
+    "if (komodo.view) { komodo.view.setFocus(); }", 
+    "ko.commands.doCommand('cmd_save')", 
+    "ko.run.runEncodedCommand(window, '$RAKUDO_DIR/bin/perl6 %F');", 
+    ""
+  ], 
+  "trigger": "trigger_postopen", 
+  "rank": 100, 
+  "version": "1.0.7", 
+  "async": false, 
+  "type": "macro", 
+  "icon": "chrome://famfamfamsilk/skin/icons/browser_msnexplorer.png"
+}

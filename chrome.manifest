@@ -1,0 +1,3 @@
+content perl6 content/ xpcnativewrappers=yes
+skin perl6 classic/1.0 skin/
+
