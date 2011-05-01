@@ -4,7 +4,7 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>perl6_language-ko@demond.org</em:id>
     <em:name>Perl6 support for Komodo</em:name>
-    <em:version>0.2</em:version>
+    <em:version>0.3</em:version>
     <em:description>Perl6 language support for Komodo</em:description>
     <em:creator>Dmitry Degtyarev</em:creator>
     <em:homepageURL>demond.org</em:homepageURL>

@@ -121,7 +121,7 @@ state IN_SSL_COMMENT_2:
 
 state IN_SSL_COMMENT_3:
 /^=begin\r?$/ : paint(include, SSL_COMMENT), => IN_SSL_DEFAULT
-/^=end\r?$/ : paint(include, SSL_COMMENT), => IN_SSL_DEFAULT
+/^=end/ : paint(include, SSL_COMMENT), => IN_SSL_DEFAULT
 
 #{{
 ################ Strings ################
